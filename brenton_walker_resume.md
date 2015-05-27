@@ -7,33 +7,27 @@ Brenton Walker
 ***
 ##Published Games
 ###404sight 
->**Lead Producer** | Retro Yeti Games
->*Published - April 2015*
+>**Lead Producer** | *Retro Yeti Games | Published - April 2015*
 
 404Sight is a free game made in support of net neutrality. It’s a 3D playground runner influenced by parkour running with the addition of a special ping ability that reveals areas that can speed the player up or slow them down.
 
 ###Research Quest
->**Producer** | *Therapeutic Games and Apps Lab - University Of Utah*
->*Published - May 2015*
+>**Producer** | *Therapeutic Games and Apps Lab - University Of Utah | May 2015*
 
 Dino Lab: Research Quest is an app created in collaboration with the Natural History Museum of Utah in an effort to enhance critical thinking in junior high students. The game allows users to not only create dinosaurs using real bones but to test them in distinct scenarios to see if they will thrive or fail.
 
-
 ###What Scientist Am I?
->**Producer** | *Therapeudic Games and Apps Lab - University Of Utah*
->*Published - December 17th, 2014*
+>**Producer** | *Therapeudic Games and Apps Lab - University Of Utah | December 2014*
 
 The app provides a hook for children (7-10 years old) who enter the museum. The purpose of the app is to generate a specific goal/case for the user that will entice them to visit a specific area in which they have a targeted interest.
 
 ###Sims 3 Showtime
->**Embedded Engineering QA** | *Electronic Arts*
->Published - Mar 05, 2012
+>**Embedded Engineering QA** | *Electronic Arts | March 2012*
 
  Live the rags to riches story with your Sims while being connected to your friends! Experience the rise to stardom as your Sim performs on stage from one venue to the next.
 
 ###Sims 3 Pets 3DS                               
->**Embedded Engineering QA** |  *Electronic Arts*
-Published on: Mar 05, 2012
+>**Embedded Engineering QA** |  *Electronic Arts | Mar 2012* 
 
 Make your Sims’ home feel even more alive with a new pet! Sometimes an animal is the best companion. Your Sims will love their new pets and all the things they can do. Teaching them tricks is only the beginning.
 
