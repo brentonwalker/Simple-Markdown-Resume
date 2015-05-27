@@ -2,8 +2,6 @@
 ###Producer / Designer
 ###### Salt Lake City, Utah
 ######(801) 999-8279
-***
-##Background
 ##Published Games and Projects
 ###404sight 
 >**Lead Producer** | *Retro Yeti Games | Published - April 2015*
