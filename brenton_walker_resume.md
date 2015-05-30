@@ -14,7 +14,7 @@
 Dino Lab: Research Quest is an app created in collaboration with the Natural History Museum of Utah in an effort to enhance critical thinking in junior high students. The game allows users to not only create dinosaurs using real bones but to test them in distinct scenarios to see if they will thrive or fail.
 
 ###What Scientist Am I?
->**Producer** | *Therapeudic Games and Apps Lab - University Of Utah | December 2014*
+>**Producer** | *Therapeutic Games and Apps Lab - University Of Utah | December 2014*
 
 The app provides a hook for children (7-10 years old) who enter the museum. The purpose of the app is to generate a specific goal/case for the user that will entice them to visit a specific area in which they have a targeted interest.
 
@@ -36,7 +36,7 @@ Make your Sims’ home feel even more alive with a new pet! Sometimes an animal 
 >    *  Created all cut scenes, VFX, and motion capture.
 >    *  80,000 downloads week 1, 85% positive over 600 reviews.
 
-###**Producer** | Therapeudic Games and Apps Lab (University of Utah)
+###**Producer** | Therapeutic Games and Apps Lab (University of Utah)
 *May 2014 -Present*
 >    *   Produced 3 seperate educational games for Natural History Museum of Utah 
 >    *   Estimated reach of 80,000 visitors annually for 2 of the 3 projects. 
