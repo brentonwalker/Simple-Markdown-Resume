@@ -42,7 +42,7 @@ Make your Sims’ home feel even more alive with a new pet! Sometimes an animal 
 >    *   Estimated reach of 80,000 visitors annually for 2 of the 3 projects. 
 >    *   Designed, prototyped, and ran public playtests for each game.
 
-###**Engingering Quality Assurance** | Myrooms.com
+###**Engineering Quality Assurance** | Myrooms.com
 *August 2013 - January 2014*
 >    *   First QA hire for the company. Assigned to the Unity engine team. Wrote initial test plans for the project. 
 >    *   Assisted in selecting QA team members, and subsequently training them. 
