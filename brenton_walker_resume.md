@@ -1,5 +1,4 @@
 # Brenton Walker
-> 
 ###### Salt Lake City, Utah
 ###### (801) 999-8279
 ###### brentonwalker@gmail.com
