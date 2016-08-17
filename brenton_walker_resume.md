@@ -21,7 +21,7 @@ January 2016 - Present
 >    *  200,000 downloads,  Over 1,100 reviews (85% positive)
 
 ### **Producer** | Therapeutic Games and Apps Lab (University of Utah)
-*May 2014 -May 2015*
+*May 2014 - May 2015*
 >    *   Produced 3 seperate educational games for Natural History Museum of Utah 
 >    *   Estimated reach of 80,000 visitors annually for 2 of the 3 projects. 
 >    *   Designed, prototyped, and ran public playtests for each game.
